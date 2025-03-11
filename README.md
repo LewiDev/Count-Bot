@@ -4,7 +4,7 @@ CountBot is a Discord bot designed to track and display count-based activities w
 
 Although the bot was eligible for Discord verification, it was unfortunately taken offline due to funding and hosting issues. Nonetheless, the bot offers a variety of features to engage and motivate users in counting challenges, with a robust leaderboard that showcases top participants.
 
-Features:
+# Features:
 
 - Tracks and displays count-based activities in your Discord server
 - Leaderboard system that ranks users based on their count contributions
